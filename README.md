@@ -11,7 +11,7 @@ go to `site-packages\retro\data\stable\DonkeyKongCountry-Snes` and add this to `
     "type": "<u2"
   }
 ```
-
+ 
 
 `python training.py` to train from zero 
 
