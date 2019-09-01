@@ -1,0 +1,810 @@
+ ****** Running generation 0 ******
+
+Genome: 1 Fitness: 0 Max Position X: 68
+Genome: 2 Fitness: 0 Max Position X: 41
+Genome: 3 Fitness: 24.5 Max Position X: 190
+Genome: 4 Fitness: 0 Max Position X: 85
+Genome: 5 Fitness: 44.25 Max Position X: 391
+Genome: 6 Fitness: 3.75 Max Position X: 100
+Genome: 7 Fitness: 0 Max Position X: 78
+Genome: 8 Fitness: 33.25 Max Position X: 212
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 10 Fitness: 0 Max Position X: 85
+Genome: 11 Fitness: 46.75 Max Position X: 379
+Genome: 12 Fitness: 0 Max Position X: 41
+Genome: 13 Fitness: 0 Max Position X: 66
+Genome: 14 Fitness: 0 Max Position X: 66
+Genome: 15 Fitness: 0 Max Position X: 85
+Genome: 16 Fitness: 0.5 Max Position X: 89
+Genome: 17 Fitness: 0.75 Max Position X: 89
+Genome: 18 Fitness: 0 Max Position X: 85
+Genome: 19 Fitness: 0 Max Position X: 85
+Genome: 20 Fitness: 0 Max Position X: 41
+Genome: 21 Fitness: 15.25 Max Position X: 146
+Genome: 22 Fitness: 0.5 Max Position X: 96
+Genome: 23 Fitness: 0 Max Position X: 41
+Genome: 24 Fitness: 6.0 Max Position X: 109
+Genome: 25 Fitness: 3.5 Max Position X: 105
+Genome: 26 Fitness: 0 Max Position X: 100
+Genome: 27 Fitness: 1.5 Max Position X: 103
+Genome: 28 Fitness: 42.0 Max Position X: 305
+Genome: 29 Fitness: 76.25 Max Position X: 486
+Genome: 30 Fitness: 0 Max Position X: 85
+Genome: 31 Fitness: 0 Max Position X: 41
+Genome: 32 Fitness: 0 Max Position X: 41
+Genome: 33 Fitness: 9.5 Max Position X: 138
+Genome: 34 Fitness: 4.25 Max Position X: 119
+Genome: 35 Fitness: 0 Max Position X: 41
+Genome: 36 Fitness: 0.5 Max Position X: 99
+Genome: 37 Fitness: 6.5 Max Position X: 111
+Genome: 38 Fitness: 47.0 Max Position X: 389
+Genome: 39 Fitness: 0 Max Position X: 66
+Genome: 40 Fitness: 0 Max Position X: 79
+Genome: 41 Fitness: 0 Max Position X: 41
+Genome: 42 Fitness: 0 Max Position X: 63
+Genome: 43 Fitness: 2.25 Max Position X: 94
+Genome: 44 Fitness: 39.25 Max Position X: 408
+Genome: 45 Fitness: 60.5 Max Position X: 366
+Genome: 46 Fitness: 0 Max Position X: 41
+Genome: 47 Fitness: 0 Max Position X: 41
+Genome: 48 Fitness: 47.0 Max Position X: 389
+Genome: 49 Fitness: 0.75 Max Position X: 89
+Genome: 50 Fitness: 0 Max Position X: 41
+Genome: 51 Fitness: 44.5 Max Position X: 293
+Genome: 52 Fitness: 0.25 Max Position X: 87
+Genome: 53 Fitness: 2.5 Max Position X: 110
+Genome: 54 Fitness: 8.0 Max Position X: 117
+Genome: 55 Fitness: 0 Max Position X: 85
+Genome: 56 Fitness: 0 Max Position X: 41
+Genome: 57 Fitness: 0 Max Position X: 85
+Genome: 58 Fitness: 0 Max Position X: 41
+Genome: 59 Fitness: 0 Max Position X: 68
+Genome: 60 Fitness: 0 Max Position X: 85
+Population's average fitness: 11.60000 stdev: 23.44431
+Best fitness: 124.50000 - size: (9, 4036) - species 1 - id 9
+Average adjusted fitness: 0.108
+Mean genetic distance 2.443, standard deviation 0.231
+Population of 60 members in 7 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    0     6    124.5    0.090     0
+     2    0    16     47.0    0.064     0
+     3    0    10     76.2    0.171     0
+     4    0    11       --       --     0
+     5    0    12       --       --     0
+     6    0     4       --       --     0
+     7    0     1       --       --     0
+Total extinctions: 0
+Generation time: 396.476 sec
+Saving checkpoint to neat-checkpoint-0
+
+ ****** Running generation 1 ******
+
+Genome: 38 Fitness: 47.0 Max Position X: 389
+Genome: 51 Fitness: 44.5 Max Position X: 293
+Genome: 5 Fitness: 44.25 Max Position X: 391
+Genome: 61 Fitness: 0 Max Position X: 77
+Genome: 62 Fitness: 93.75 Max Position X: 736
+Genome: 63 Fitness: 0 Max Position X: 85
+Genome: 64 Fitness: 0 Max Position X: 47
+Genome: 65 Fitness: 0 Max Position X: 46
+Genome: 66 Fitness: 36.5 Max Position X: 413
+Genome: 67 Fitness: 7.5 Max Position X: 116
+Genome: 68 Fitness: 0.5 Max Position X: 98
+Genome: 69 Fitness: 0 Max Position X: 97
+Genome: 70 Fitness: 70.25 Max Position X: 744
+Genome: 71 Fitness: 4.5 Max Position X: 146
+Genome: 72 Fitness: 9.0 Max Position X: 129
+Genome: 29 Fitness: 76.25 Max Position X: 486
+Genome: 28 Fitness: 42.0 Max Position X: 305
+Genome: 44 Fitness: 39.25 Max Position X: 408
+Genome: 73 Fitness: 44.25 Max Position X: 292
+Genome: 74 Fitness: 16.25 Max Position X: 147
+Genome: 75 Fitness: 43.0 Max Position X: 372
+Genome: 76 Fitness: 28.5 Max Position X: 207
+Genome: 77 Fitness: 49.25 Max Position X: 378
+Genome: 78 Fitness: 47.75 Max Position X: 386
+Genome: 79 Fitness: 23.75 Max Position X: 199
+Genome: 80 Fitness: 29.0 Max Position X: 216
+Genome: 81 Fitness: 5.0 Max Position X: 127
+Genome: 82 Fitness: 111.25 Max Position X: 641
+Genome: 83 Fitness: 3.0 Max Position X: 134
+Genome: 84 Fitness: 3.25 Max Position X: 135
+Genome: 85 Fitness: 0 Max Position X: 85
+Genome: 86 Fitness: 44.75 Max Position X: 414
+Genome: 87 Fitness: 0.75 Max Position X: 94
+Genome: 88 Fitness: 173.25 Max Position X: 1700
+Genome: 89 Fitness: 0 Max Position X: 59
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 45 Fitness: 60.5 Max Position X: 366
+Genome: 48 Fitness: 47.0 Max Position X: 389
+Genome: 90 Fitness: 47.0 Max Position X: 389
+Genome: 91 Fitness: 0 Max Position X: 47
+Genome: 92 Fitness: 0.5 Max Position X: 89
+Genome: 93 Fitness: 36.5 Max Position X: 273
+Genome: 94 Fitness: 43.0 Max Position X: 364
+Genome: 95 Fitness: 10.5 Max Position X: 159
+Genome: 96 Fitness: 26.0 Max Position X: 171
+Genome: 97 Fitness: 11.75 Max Position X: 148
+Genome: 98 Fitness: 8.75 Max Position X: 144
+Genome: 99 Fitness: 51.25 Max Position X: 385
+Genome: 100 Fitness: 40.25 Max Position X: 380
+Genome: 101 Fitness: 47.0 Max Position X: 377
+Genome: 102 Fitness: 10.5 Max Position X: 159
+Genome: 103 Fitness: 47.0 Max Position X: 389
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 105 Fitness: 0.75 Max Position X: 88
+Genome: 106 Fitness: 111.25 Max Position X: 801
+Genome: 107 Fitness: 3.5 Max Position X: 110
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 109 Fitness: 0 Max Position X: 85
+Genome: 110 Fitness: 0 Max Position X: 85
+Genome: 111 Fitness: 19.0 Max Position X: 158
+Population's average fitness: 32.29167 stdev: 35.45361
+Best fitness: 173.25000 - size: (9, 2997) - species 4 - id 88
+Average adjusted fitness: 0.158
+Mean genetic distance 2.438, standard deviation 0.379
+Population of 63 members in 8 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    1     9     47.0    0.134     1
+     2    1     8    124.5    0.171     0
+     3    1    10    111.2    0.257     0
+     4    1     8    173.2    0.232     0
+     5    1     7    111.2    0.158     0
+     6    1     8     52.8    0.157     0
+     7    1     3      0.0    0.000     0
+     8    0    10       --       --     0
+Total extinctions: 0
+Generation time: 461.814 sec (429.145 average)
+Saving checkpoint to neat-checkpoint-1
+
+ ****** Running generation 2 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 90 Fitness: 47.0 Max Position X: 389
+Genome: 51 Fitness: 44.5 Max Position X: 293
+Genome: 93 Fitness: 36.5 Max Position X: 273
+Genome: 114 Fitness: 3.75 Max Position X: 141
+Genome: 115 Fitness: 0 Max Position X: 85
+Genome: 116 Fitness: 11.25 Max Position X: 159
+Genome: 117 Fitness: 22.0 Max Position X: 179
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 101 Fitness: 47.0 Max Position X: 377
+Genome: 98 Fitness: 8.75 Max Position X: 144
+Genome: 118 Fitness: 44.5 Max Position X: 367
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 120 Fitness: 46.5 Max Position X: 382
+Genome: 106 Fitness: 111.25 Max Position X: 801
+Genome: 29 Fitness: 76.25 Max Position X: 486
+Genome: 48 Fitness: 47.0 Max Position X: 389
+Genome: 121 Fitness: 9.5 Max Position X: 160
+Genome: 122 Fitness: 47.0 Max Position X: 389
+Genome: 123 Fitness: 169.0 Max Position X: 1244
+Genome: 124 Fitness: 17.0 Max Position X: 175
+Genome: 125 Fitness: 3.5 Max Position X: 99
+Genome: 126 Fitness: 10.25 Max Position X: 132
+Genome: 127 Fitness: 41.5 Max Position X: 287
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 129 Fitness: 49.0 Max Position X: 352
+Genome: 82 Fitness: 111.25 Max Position X: 641
+Genome: 77 Fitness: 49.25 Max Position X: 378
+Genome: 78 Fitness: 47.75 Max Position X: 386
+Genome: 130 Fitness: 63.75 Max Position X: 334
+Genome: 131 Fitness: 257.25 Max Position X: 1962
+Genome: 132 Fitness: 12.25 Max Position X: 159
+Genome: 133 Fitness: 21.75 Max Position X: 152
+Genome: 134 Fitness: 47.25 Max Position X: 387
+Genome: 135 Fitness: 0 Max Position X: 41
+Genome: 136 Fitness: 47.0 Max Position X: 389
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 62 Fitness: 93.75 Max Position X: 736
+Genome: 45 Fitness: 60.5 Max Position X: 366
+Genome: 137 Fitness: 47.0 Max Position X: 389
+Genome: 138 Fitness: 39.25 Max Position X: 240
+Genome: 139 Fitness: 1.0 Max Position X: 104
+Genome: 140 Fitness: 0 Max Position X: 84
+Genome: 141 Fitness: 40.0 Max Position X: 325
+Genome: 142 Fitness: 17.75 Max Position X: 182
+Genome: 143 Fitness: 47.0 Max Position X: 389
+Genome: 144 Fitness: 22.5 Max Position X: 179
+Genome: 145 Fitness: 6.0 Max Position X: 140
+Genome: 146 Fitness: 47.0 Max Position X: 389
+Genome: 88 Fitness: 173.25 Max Position X: 1700
+Genome: 70 Fitness: 70.25 Max Position X: 744
+Genome: 99 Fitness: 51.25 Max Position X: 385
+Genome: 147 Fitness: 254.25 Max Position X: 2288
+Genome: 148 Fitness: 351.5 Max Position X: 3161
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 150 Fitness: 61.0 Max Position X: 354
+Genome: 151 Fitness: 47.0 Max Position X: 389
+Genome: 152 Fitness: 59.5 Max Position X: 362
+Genome: 153 Fitness: 41.5 Max Position X: 409
+Genome: 154 Fitness: 14.0 Max Position X: 173
+Genome: 155 Fitness: 45.25 Max Position X: 212
+Population's average fitness: 63.60317 stdev: 79.10068
+Best fitness: 376.75000 - size: (9, 2474) - species 4 - id 149
+Average adjusted fitness: 0.153
+Mean genetic distance 2.437, standard deviation 0.445
+Population of 62 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    2     3    257.2    0.144     0
+     2    2     4    124.5    0.138     1
+     3    2     8    351.5    0.289     0
+     4    2    17    376.8    0.354     0
+     5    2     6    111.2    0.088     1
+     6    2     7     63.5    0.103     0
+     7    2     3      0.0    0.000     1
+     8    1     8     61.0    0.108     0
+     9    0     6       --       --     0
+Total extinctions: 0
+Generation time: 616.358 sec (491.549 average)
+Saving checkpoint to neat-checkpoint-2
+
+ ****** Running generation 3 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 150 Fitness: 61.0 Max Position X: 354
+Genome: 45 Fitness: 60.5 Max Position X: 366
+Genome: 152 Fitness: 59.5 Max Position X: 362
+Genome: 156 Fitness: 33.25 Max Position X: 197
+Genome: 157 Fitness: 5.5 Max Position X: 141
+Genome: 158 Fitness: 30.25 Max Position X: 206
+Genome: 159 Fitness: 127.5 Max Position X: 912
+Genome: 160 Fitness: 53.5 Max Position X: 285
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 90 Fitness: 47.0 Max Position X: 389
+Genome: 161 Fitness: 35.5 Max Position X: 261
+Genome: 162 Fitness: 34.25 Max Position X: 243
+Genome: 163 Fitness: 56.5 Max Position X: 361
+Genome: 164 Fitness: 29.75 Max Position X: 218
+Genome: 82 Fitness: 111.25 Max Position X: 641
+Genome: 29 Fitness: 76.25 Max Position X: 486
+Genome: 133 Fitness: 21.75 Max Position X: 152
+Genome: 165 Fitness: 48.5 Max Position X: 318
+Genome: 166 Fitness: 8.75 Max Position X: 138
+Genome: 167 Fitness: 158.0 Max Position X: 1399
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 130 Fitness: 63.75 Max Position X: 334
+Genome: 77 Fitness: 49.25 Max Position X: 378
+Genome: 168 Fitness: 42.0 Max Position X: 324
+Genome: 169 Fitness: 42.0 Max Position X: 389
+Genome: 170 Fitness: 16.0 Max Position X: 149
+Genome: 171 Fitness: 49.75 Max Position X: 383
+Genome: 131 Fitness: 257.25 Max Position X: 1962
+Genome: 78 Fitness: 47.75 Max Position X: 386
+Genome: 136 Fitness: 47.0 Max Position X: 389
+Genome: 172 Fitness: 32.75 Max Position X: 241
+Genome: 173 Fitness: 0 Max Position X: 95
+Genome: 174 Fitness: 416.25 Max Position X: 3494
+Genome: 175 Fitness: 3.5 Max Position X: 138
+Genome: 176 Fitness: 48.5 Max Position X: 383
+Genome: 148 Fitness: 351.5 Max Position X: 3161
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 123 Fitness: 169.0 Max Position X: 1244
+Genome: 177 Fitness: 152.0 Max Position X: 996
+Genome: 178 Fitness: 161.75 Max Position X: 1405
+Genome: 179 Fitness: 0 Max Position X: 86
+Genome: 180 Fitness: 0 Max Position X: 85
+Genome: 181 Fitness: 40.75 Max Position X: 306
+Genome: 182 Fitness: 107.75 Max Position X: 794
+Genome: 183 Fitness: 37.0 Max Position X: 389
+Genome: 184 Fitness: 175.5 Max Position X: 1405
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 147 Fitness: 254.25 Max Position X: 2288
+Genome: 88 Fitness: 173.25 Max Position X: 1700
+Genome: 185 Fitness: 95.0 Max Position X: 819
+Genome: 186 Fitness: 0 Max Position X: 85
+Genome: 187 Fitness: 151.5 Max Position X: 1311
+Genome: 188 Fitness: 40.25 Max Position X: 407
+Genome: 189 Fitness: 188.0 Max Position X: 1708
+Genome: 190 Fitness: 84.5 Max Position X: 789
+Genome: 191 Fitness: 371.0 Max Position X: 3498
+Genome: 192 Fitness: 59.25 Max Position X: 541
+Genome: 193 Fitness: 46.25 Max Position X: 590
+Population's average fitness: 91.91532 stdev: 99.19351
+Best fitness: 416.25000 - size: (11, 2294) - species 9 - id 174
+Average adjusted fitness: 0.171
+Mean genetic distance 2.411, standard deviation 0.527
+Population of 60 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    3     1     63.8    0.090     1
+     2    3     4    124.5    0.155     2
+     3    3     9    248.5    0.282     1
+     4    3    14    376.8    0.374     1
+     5    3     6    158.0    0.170     0
+     6    3     6     63.5    0.110     1
+     7    3     3      0.0    0.000     2
+     8    2     6    127.5    0.129     0
+     9    1    11    416.2    0.226     0
+Total extinctions: 0
+Generation time: 714.960 sec (547.402 average)
+Saving checkpoint to neat-checkpoint-3
+
+ ****** Running generation 4 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 163 Fitness: 56.5 Max Position X: 361
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 194 Fitness: 47.0 Max Position X: 389
+Genome: 195 Fitness: 34.25 Max Position X: 229
+Genome: 196 Fitness: 49.25 Max Position X: 380
+Genome: 130 Fitness: 63.75 Max Position X: 334
+Genome: 172 Fitness: 32.75 Max Position X: 241
+Genome: 170 Fitness: 16.0 Max Position X: 149
+Genome: 197 Fitness: 36.25 Max Position X: 210
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 171 Fitness: 49.75 Max Position X: 383
+Genome: 168 Fitness: 42.0 Max Position X: 324
+Genome: 198 Fitness: 47.0 Max Position X: 390
+Genome: 199 Fitness: 47.0 Max Position X: 388
+Genome: 159 Fitness: 127.5 Max Position X: 912
+Genome: 150 Fitness: 61.0 Max Position X: 354
+Genome: 45 Fitness: 60.5 Max Position X: 366
+Genome: 200 Fitness: 186.75 Max Position X: 1293
+Genome: 201 Fitness: 0 Max Position X: 62
+Genome: 202 Fitness: 94.25 Max Position X: 582
+Genome: 167 Fitness: 158.0 Max Position X: 1399
+Genome: 82 Fitness: 111.25 Max Position X: 641
+Genome: 29 Fitness: 76.25 Max Position X: 486
+Genome: 203 Fitness: 137.5 Max Position X: 1312
+Genome: 204 Fitness: 382.25 Max Position X: 3499
+Genome: 205 Fitness: 49.75 Max Position X: 327
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 184 Fitness: 175.5 Max Position X: 1405
+Genome: 123 Fitness: 169.0 Max Position X: 1244
+Genome: 206 Fitness: 211.5 Max Position X: 1674
+Genome: 207 Fitness: 52.25 Max Position X: 357
+Genome: 208 Fitness: 138.25 Max Position X: 1392
+Genome: 209 Fitness: 0.25 Max Position X: 92
+Genome: 210 Fitness: 121.25 Max Position X: 960
+Genome: 211 Fitness: 120.25 Max Position X: 935
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 191 Fitness: 371.0 Max Position X: 3498
+Genome: 148 Fitness: 351.5 Max Position X: 3161
+Genome: 212 Fitness: 0 Max Position X: 81
+Genome: 213 Fitness: 132.5 Max Position X: 1265
+Genome: 214 Fitness: 188.5 Max Position X: 1692
+Genome: 215 Fitness: 153.25 Max Position X: 1443
+Genome: 216 Fitness: 170.75 Max Position X: 1364
+Genome: 217 Fitness: 249.0 Max Position X: 2273
+Genome: 218 Fitness: 46.25 Max Position X: 394
+Genome: 219 Fitness: 203.25 Max Position X: 1705
+Genome: 220 Fitness: 374.0 Max Position X: 3390
+Genome: 221 Fitness: 10.75 Max Position X: 137
+Genome: 222 Fitness: 467.25 Max Position X: 4228
+Genome: 223 Fitness: 193.25 Max Position X: 1670
+Genome: 174 Fitness: 416.25 Max Position X: 3494
+Genome: 77 Fitness: 49.25 Max Position X: 378
+Genome: 176 Fitness: 48.5 Max Position X: 383
+Genome: 224 Fitness: 45.5 Max Position X: 340
+Genome: 225 Fitness: 50.25 Max Position X: 372
+Genome: 226 Fitness: 323.5 Max Position X: 2774
+Population's average fitness: 127.75417 stdev: 119.69210
+Best fitness: 467.25000 - size: (9, 2192) - species 4 - id 222
+Average adjusted fitness: 0.202
+Mean genetic distance 2.450, standard deviation 0.537
+Population of 61 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    4     3     16.0    0.034     2
+     2    4     5    124.5    0.139     3
+     3    4     9    248.5    0.294     2
+     4    4    14    467.2    0.477     0
+     5    4     7    382.2    0.326     0
+     6    4     5     63.5    0.108     2
+     7    4     3      0.0    0.000     3
+     8    3     6    186.8    0.189     0
+     9    2     9    416.2    0.250     1
+Total extinctions: 0
+Generation time: 813.422 sec (600.606 average)
+Saving checkpoint to neat-checkpoint-4
+
+ ****** Running generation 5 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 170 Fitness: 16.0 Max Position X: 149
+Genome: 227 Fitness: 33.0 Max Position X: 226
+Genome: 228 Fitness: 55.75 Max Position X: 370
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 163 Fitness: 56.5 Max Position X: 361
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 229 Fitness: 38.25 Max Position X: 213
+Genome: 230 Fitness: 34.5 Max Position X: 247
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 198 Fitness: 47.0 Max Position X: 390
+Genome: 199 Fitness: 47.0 Max Position X: 388
+Genome: 231 Fitness: 42.25 Max Position X: 389
+Genome: 232 Fitness: 117.5 Max Position X: 806
+Genome: 200 Fitness: 186.75 Max Position X: 1293
+Genome: 159 Fitness: 127.5 Max Position X: 912
+Genome: 202 Fitness: 94.25 Max Position X: 582
+Genome: 233 Fitness: 42.0 Max Position X: 389
+Genome: 234 Fitness: 42.25 Max Position X: 387
+Genome: 235 Fitness: 0 Max Position X: 85
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 206 Fitness: 211.5 Max Position X: 1674
+Genome: 184 Fitness: 175.5 Max Position X: 1405
+Genome: 236 Fitness: 209.25 Max Position X: 1705
+Genome: 237 Fitness: 109.25 Max Position X: 808
+Genome: 238 Fitness: 126.5 Max Position X: 946
+Genome: 239 Fitness: 100.25 Max Position X: 814
+Genome: 240 Fitness: 77.25 Max Position X: 629
+Genome: 241 Fitness: 120.0 Max Position X: 934
+Genome: 204 Fitness: 382.25 Max Position X: 3499
+Genome: 167 Fitness: 158.0 Max Position X: 1399
+Genome: 203 Fitness: 137.5 Max Position X: 1312
+Genome: 242 Fitness: 206.25 Max Position X: 1821
+Genome: 243 Fitness: 200.25 Max Position X: 1823
+Genome: 244 Fitness: 251.75 Max Position X: 2279
+Genome: 245 Fitness: 374.75 Max Position X: 3497
+Genome: 174 Fitness: 416.25 Max Position X: 3494
+Genome: 226 Fitness: 323.5 Max Position X: 2774
+Genome: 216 Fitness: 170.75 Max Position X: 1364
+Genome: 246 Fitness: 1.5 Max Position X: 108
+Genome: 247 Fitness: 0.25 Max Position X: 91
+Genome: 248 Fitness: 232.0 Max Position X: 1887
+Genome: 249 Fitness: 43.5 Max Position X: 228
+Genome: 250 Fitness: 55.0 Max Position X: 395
+Genome: 251 Fitness: 0 Max Position X: 85
+Genome: 222 Fitness: 467.25 Max Position X: 4228
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 220 Fitness: 374.0 Max Position X: 3390
+Genome: 252 Fitness: 94.0 Max Position X: 850
+Genome: 253 Fitness: 0 Max Position X: 105
+Genome: 254 Fitness: 9.0 Max Position X: 148
+Genome: 255 Fitness: 8.75 Max Position X: 120
+Genome: 256 Fitness: 185.75 Max Position X: 1775
+Genome: 257 Fitness: 13.0 Max Position X: 137
+Genome: 258 Fitness: 51.25 Max Position X: 390
+Genome: 259 Fitness: 203.25 Max Position X: 1661
+Genome: 260 Fitness: 192.25 Max Position X: 1699
+Genome: 261 Fitness: 81.0 Max Position X: 568
+Genome: 262 Fitness: 7.25 Max Position X: 116
+Population's average fitness: 124.85656 stdev: 119.98941
+Best fitness: 467.25000 - size: (9, 2192) - species 4 - id 222
+Average adjusted fitness: 0.220
+Mean genetic distance 2.468, standard deviation 0.627
+Population of 60 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    5     3     55.8    0.075     3
+     2    5     4    124.5    0.162     4
+     3    5    10    248.5    0.328     3
+     4    5    12    467.2    0.315     1
+     5    5    11    382.2    0.523     1
+     6    5     4     63.5    0.105     3
+     7    5     3      0.0    0.000     4
+     8    4     5    186.8    0.176     1
+     9    3     8    416.2    0.296     2
+Total extinctions: 0
+Generation time: 794.943 sec (632.995 average)
+Saving checkpoint to neat-checkpoint-5
+
+ ****** Running generation 6 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 228 Fitness: 55.75 Max Position X: 370
+Genome: 227 Fitness: 33.0 Max Position X: 226
+Genome: 170 Fitness: 16.0 Max Position X: 149
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 163 Fitness: 56.5 Max Position X: 361
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 263 Fitness: 11.25 Max Position X: 167
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 232 Fitness: 117.5 Max Position X: 806
+Genome: 198 Fitness: 47.0 Max Position X: 390
+Genome: 264 Fitness: 50.25 Max Position X: 387
+Genome: 200 Fitness: 186.75 Max Position X: 1293
+Genome: 159 Fitness: 127.5 Max Position X: 912
+Genome: 202 Fitness: 94.25 Max Position X: 582
+Genome: 265 Fitness: 105.0 Max Position X: 804
+Genome: 266 Fitness: 108.0 Max Position X: 1252
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 206 Fitness: 211.5 Max Position X: 1674
+Genome: 236 Fitness: 209.25 Max Position X: 1705
+Genome: 267 Fitness: 195.5 Max Position X: 1397
+Genome: 268 Fitness: 72.5 Max Position X: 845
+Genome: 269 Fitness: 47.25 Max Position X: 387
+Genome: 270 Fitness: 0 Max Position X: 85
+Genome: 271 Fitness: 47.25 Max Position X: 387
+Genome: 272 Fitness: 0 Max Position X: 85
+Genome: 273 Fitness: 117.5 Max Position X: 1265
+Genome: 204 Fitness: 382.25 Max Position X: 3499
+Genome: 245 Fitness: 374.75 Max Position X: 3497
+Genome: 244 Fitness: 251.75 Max Position X: 2279
+Genome: 274 Fitness: 230.5 Max Position X: 1822
+Genome: 275 Fitness: 393.0 Max Position X: 3737
+Genome: 276 Fitness: 241.25 Max Position X: 1674
+Genome: 277 Fitness: 143.25 Max Position X: 1383
+Genome: 278 Fitness: 80.25 Max Position X: 704
+Genome: 279 Fitness: 44.75 Max Position X: 382
+Genome: 280 Fitness: 402.25 Max Position X: 3505
+Genome: 281 Fitness: 41.25 Max Position X: 408
+Genome: 174 Fitness: 416.25 Max Position X: 3494
+Genome: 226 Fitness: 323.5 Max Position X: 2774
+Genome: 248 Fitness: 232.0 Max Position X: 1887
+Genome: 282 Fitness: 387.75 Max Position X: 3499
+Genome: 283 Fitness: 238.25 Max Position X: 2277
+Genome: 284 Fitness: 45.75 Max Position X: 355
+Genome: 285 Fitness: 370.75 Max Position X: 3496
+Genome: 286 Fitness: 44.75 Max Position X: 345
+Genome: 222 Fitness: 467.25 Max Position X: 4228
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 220 Fitness: 374.0 Max Position X: 3390
+Genome: 287 Fitness: 41.5 Max Position X: 390
+Genome: 288 Fitness: 9.25 Max Position X: 156
+Genome: 289 Fitness: 1.5 Max Position X: 112
+Genome: 290 Fitness: 47.0 Max Position X: 389
+Genome: 291 Fitness: 296.0 Max Position X: 3004
+Genome: 292 Fitness: 38.0 Max Position X: 396
+Genome: 293 Fitness: 228.0 Max Position X: 2288
+Genome: 294 Fitness: 243.25 Max Position X: 2298
+Genome: 295 Fitness: 98.0 Max Position X: 975
+Population's average fitness: 154.39167 stdev: 136.36376
+Best fitness: 467.25000 - size: (9, 2192) - species 4 - id 222
+Average adjusted fitness: 0.257
+Mean genetic distance 2.478, standard deviation 0.588
+Population of 62 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    6     3     55.8    0.075     4
+     2    6     5    124.5    0.182     5
+     3    6     8    248.5    0.246     4
+     4    6    11    467.2    0.396     2
+     5    6    12    402.2    0.503     0
+     6    6     3     63.5    0.098     4
+     7    6     3      0.0    0.000     5
+     8    5     6    186.8    0.266     2
+     9    4    11    416.2    0.551     3
+Total extinctions: 0
+Generation time: 934.965 sec (676.134 average)
+Saving checkpoint to neat-checkpoint-6
+
+ ****** Running generation 7 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 228 Fitness: 55.75 Max Position X: 370
+Genome: 227 Fitness: 33.0 Max Position X: 226
+Genome: 170 Fitness: 16.0 Max Position X: 149
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 163 Fitness: 56.5 Max Position X: 361
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 232 Fitness: 117.5 Max Position X: 806
+Genome: 264 Fitness: 50.25 Max Position X: 387
+Genome: 296 Fitness: 47.5 Max Position X: 389
+Genome: 297 Fitness: 21.75 Max Position X: 193
+Genome: 200 Fitness: 186.75 Max Position X: 1293
+Genome: 159 Fitness: 127.5 Max Position X: 912
+Genome: 266 Fitness: 108.0 Max Position X: 1252
+Genome: 298 Fitness: 177.5 Max Position X: 1262
+Genome: 299 Fitness: 55.75 Max Position X: 372
+Genome: 300 Fitness: 38.0 Max Position X: 389
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 206 Fitness: 211.5 Max Position X: 1674
+Genome: 236 Fitness: 209.25 Max Position X: 1705
+Genome: 301 Fitness: 179.0 Max Position X: 1819
+Genome: 302 Fitness: 99.0 Max Position X: 744
+Genome: 303 Fitness: 36.5 Max Position X: 413
+Genome: 304 Fitness: 210.25 Max Position X: 1708
+Genome: 305 Fitness: 198.0 Max Position X: 1819
+Genome: 280 Fitness: 402.25 Max Position X: 3505
+Genome: 275 Fitness: 393.0 Max Position X: 3737
+Genome: 204 Fitness: 382.25 Max Position X: 3499
+Genome: 306 Fitness: 379.0 Max Position X: 3503
+Genome: 307 Fitness: 464.75 Max Position X: 3562
+Genome: 308 Fitness: 44.25 Max Position X: 258
+Genome: 309 Fitness: 379.25 Max Position X: 3496
+Genome: 310 Fitness: 72.5 Max Position X: 637
+Genome: 311 Fitness: 0 Max Position X: 85
+Genome: 312 Fitness: 168.0 Max Position X: 1408
+Genome: 313 Fitness: 380.75 Max Position X: 3499
+Genome: 314 Fitness: 349.5 Max Position X: 2990
+Genome: 174 Fitness: 416.25 Max Position X: 3494
+Genome: 282 Fitness: 387.75 Max Position X: 3499
+Genome: 285 Fitness: 370.75 Max Position X: 3496
+Genome: 315 Fitness: 257.25 Max Position X: 2276
+Genome: 316 Fitness: 310.0 Max Position X: 2495
+Genome: 317 Fitness: 190.75 Max Position X: 1575
+Genome: 318 Fitness: 47.0 Max Position X: 389
+Genome: 319 Fitness: 192.5 Max Position X: 1509
+Genome: 320 Fitness: 181.5 Max Position X: 1475
+Genome: 321 Fitness: 237.25 Max Position X: 1808
+Genome: 322 Fitness: 303.0 Max Position X: 2476
+Genome: 222 Fitness: 467.25 Max Position X: 4228
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 220 Fitness: 374.0 Max Position X: 3390
+Genome: 323 Fitness: 36.75 Max Position X: 365
+Genome: 324 Fitness: 56.75 Max Position X: 565
+Genome: 325 Fitness: 47.25 Max Position X: 325
+Genome: 326 Fitness: 157.25 Max Position X: 1691
+Genome: 327 Fitness: 37.75 Max Position X: 389
+Genome: 328 Fitness: 114.5 Max Position X: 971
+Genome: 329 Fitness: 10.75 Max Position X: 169
+Genome: 330 Fitness: 246.25 Max Position X: 2407
+Population's average fitness: 176.76210 stdev: 141.58880
+Best fitness: 467.25000 - size: (9, 2192) - species 4 - id 222
+Average adjusted fitness: 0.280
+Mean genetic distance 2.476, standard deviation 0.637
+Population of 62 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    7     3     55.8    0.075     5
+     2    7     4    124.5    0.155     6
+     3    7     9    248.5    0.372     5
+     4    7    10    467.2    0.375     3
+     5    7    13    464.8    0.609     0
+     6    7     3     63.5    0.123     5
+     7    7     3      0.0    0.000     6
+     8    6     5    186.8    0.247     3
+     9    5    12    416.2    0.563     4
+Total extinctions: 0
+Generation time: 1207.716 sec (742.582 average)
+Saving checkpoint to neat-checkpoint-7
+
+ ****** Running generation 8 ******
+
+Genome: 108 Fitness: 0 Max Position X: 105
+Genome: 112 Fitness: 0 Max Position X: 105
+Genome: 113 Fitness: 0 Max Position X: 105
+Genome: 228 Fitness: 55.75 Max Position X: 370
+Genome: 227 Fitness: 33.0 Max Position X: 226
+Genome: 170 Fitness: 16.0 Max Position X: 149
+Genome: 119 Fitness: 63.5 Max Position X: 356
+Genome: 163 Fitness: 56.5 Max Position X: 361
+Genome: 104 Fitness: 52.75 Max Position X: 357
+Genome: 9 Fitness: 124.5 Max Position X: 958
+Genome: 232 Fitness: 117.5 Max Position X: 806
+Genome: 264 Fitness: 50.25 Max Position X: 387
+Genome: 331 Fitness: 52.5 Max Position X: 383
+Genome: 200 Fitness: 186.75 Max Position X: 1293
+Genome: 298 Fitness: 177.5 Max Position X: 1262
+Genome: 159 Fitness: 127.5 Max Position X: 912
+Genome: 332 Fitness: 43.75 Max Position X: 319
+Genome: 333 Fitness: 182.0 Max Position X: 1389
+Genome: 128 Fitness: 248.5 Max Position X: 2282
+Genome: 206 Fitness: 211.5 Max Position X: 1674
+Genome: 304 Fitness: 210.25 Max Position X: 1708
+Genome: 334 Fitness: 123.0 Max Position X: 969
+Genome: 335 Fitness: 47.0 Max Position X: 389
+Genome: 336 Fitness: 222.0 Max Position X: 1804
+Genome: 337 Fitness: 194.5 Max Position X: 1671
+Genome: 338 Fitness: 171.75 Max Position X: 1391
+Genome: 339 Fitness: 47.0 Max Position X: 389
+Genome: 174 Fitness: 416.25 Max Position X: 3494
+Genome: 282 Fitness: 387.75 Max Position X: 3499
+Genome: 285 Fitness: 370.75 Max Position X: 3496
+Genome: 340 Fitness: 414.0 Max Position X: 3488
+Genome: 341 Fitness: 242.75 Max Position X: 2289
+Genome: 342 Fitness: 42.0 Max Position X: 374
+Genome: 343 Fitness: 258.75 Max Position X: 2274
+Genome: 344 Fitness: 42.25 Max Position X: 381
+Genome: 345 Fitness: 383.75 Max Position X: 2982
+Genome: 346 Fitness: 281.25 Max Position X: 2505
+Genome: 347 Fitness: 62.75 Max Position X: 353
+Genome: 348 Fitness: 327.5 Max Position X: 2663
+Genome: 307 Fitness: 464.75 Max Position X: 3562
+Genome: 280 Fitness: 402.25 Max Position X: 3505
+Genome: 275 Fitness: 393.0 Max Position X: 3737
+Genome: 349 Fitness: 95.0 Max Position X: 753
+Genome: 350 Fitness: 241.75 Max Position X: 1743
+Genome: 351 Fitness: 174.0 Max Position X: 1268
+Genome: 352 Fitness: 22.5 Max Position X: 204
+Genome: 353 Fitness: 397.25 Max Position X: 3498
+Genome: 354 Fitness: 239.0 Max Position X: 2296
+Genome: 355 Fitness: 26.0 Max Position X: 228
+Genome: 356 Fitness: 375.25 Max Position X: 3500
+Genome: 357 Fitness: 86.75 Max Position X: 784
+Genome: 358 Fitness: 88.25 Max Position X: 710
+Genome: 222 Fitness: 467.25 Max Position X: 4228
+Genome: 149 Fitness: 376.75 Max Position X: 3507
+Genome: 220 Fitness: 374.0 Max Position X: 3390
+Genome: 359 Fitness: 29.25 Max Position X: 331
+Genome: 360 Fitness: 0 Max Position X: 105
+Genome: 361 Fitness: 82.25 Max Position X: 765
+Genome: 362 Fitness: 81.25 Max Position X: 725
+Genome: 363 Fitness: 25.5 Max Position X: 276
+Genome: 364 Fitness: 41.25 Max Position X: 260
+Genome: 365 Fitness: 43.75 Max Position X: 411
+Population's average fitness: 170.51613 stdev: 143.18861
+Best fitness: 467.25000 - size: (9, 2192) - species 4 - id 222
+Average adjusted fitness: 0.271
+Mean genetic distance 2.491, standard deviation 0.626
+Population of 61 members in 9 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    8     3     55.8    0.075     6
+     2    8     5    124.5    0.184     7
+     3    8     8    248.5    0.351     6
+     4    8     9    467.2    0.326     4
+     5    8    11    464.8    0.495     1
+     6    8     4     63.5    0.123     6
+     7    8     3      0.0    0.000     7
+     8    7     6    186.8    0.307     4
+     9    6    12    416.2    0.576     5
+Total extinctions: 0
+Generation time: 1154.137 sec (788.310 average)
+Saving checkpoint to neat-checkpoint-8
+
+ ****** Running generation 9 ******
+
+Genome: 56 Fitness: 0 Max Position X: 61
+Genome: 197 Fitness: 0 Max Position X: 66
+Genome: 236 Fitness: 0 Max Position X: 47
+Genome: 117 Fitness: 61.0 Max Position X: 370
+Genome: 158 Fitness: 50.25 Max Position X: 368
+Genome: 82 Fitness: 49.25 Max Position X: 374
+Genome: 113 Fitness: 154.25 Max Position X: 1402
+Genome: 275 Fitness: 53.75 Max Position X: 388
+Genome: 238 Fitness: 52.25 Max Position X: 388
+Genome: 63 Fitness: 188.5 Max Position X: 1257
+Genome: 171 Fitness: 103.5 Max Position X: 831
+Genome: 249 Fitness: 75.0 Max Position X: 457
+Genome: 422 Fitness: 5.5 Max Position X: 147
+Genome: 423 Fitness: 50.25 Max Position X: 386
+Genome: 277 Fitness: 204.5 Max Position X: 2302
+Genome: 388 Fitness: 203.75 Max Position X: 1697
+Genome: 352 Fitness: 191.5 Max Position X: 1794
+Genome: 424 Fitness: 36.5 Max Position X: 413
+Genome: 425 Fitness: 168.75 Max Position X: 1708
+Genome: 426 Fitness: 31.5 Max Position X: 253
+Genome: 427 Fitness: 39.25 Max Position X: 390
+Genome: 333 Fitness: 383.25 Max Position X: 3496
+Genome: 400 Fitness: 375.25 Max Position X: 3496
+Genome: 220 Fitness: 373.25 Max Position X: 3497
+Genome: 428 Fitness: 89.5 Max Position X: 808
+Genome: 429 Fitness: 167.25 Max Position X: 1792
+Genome: 430 Fitness: 28.0 Max Position X: 251
+Genome: 431 Fitness: 105.0 Max Position X: 526
+Genome: 432 Fitness: 208.5 Max Position X: 2277
+Genome: 433 Fitness: 42.0 Max Position X: 382
+Genome: 434 Fitness: 157.5 Max Position X: 1257
+Genome: 435 Fitness: 45.0 Max Position X: 384
+Genome: 436 Fitness: 239.25 Max Position X: 2283
+Genome: 437 Fitness: 182.0 Max Position X: 1678
+Genome: 395 Fitness: 404.25 Max Position X: 3488
+Genome: 392 Fitness: 381.25 Max Position X: 3488
+Genome: 355 Fitness: 371.25 Max Position X: 3505
+Genome: 438 Fitness: 315.0 Max Position X: 2984
+Genome: 439 Fitness: 208.75 Max Position X: 2277
+Genome: 440 Fitness: 361.0 Max Position X: 3490
+Genome: 441 Fitness: 42.0 Max Position X: 372
+Genome: 442 Fitness: 350.0 Max Position X: 3496
+Genome: 443 Fitness: 242.75 Max Position X: 2531
+Genome: 444 Fitness: 404.5 Max Position X: 3490
+Genome: 445 Fitness: 45.5 Max Position X: 378
+Genome: 446 Fitness: 245.5 Max Position X: 2276
+Genome: 447 Fitness: 344.75 Max Position X: 3489
+Genome: 71 Fitness: 1795.5 Max Position X: 5120
+Genome: 338 Fitness: 1746.75 Max Position X: 5120
+Genome: 419 Fitness: 427.75 Max Position X: 3486
+Genome: 448 Fitness: 141.25 Max Position X: 1299
+Genome: 449 Fitness: 36.25 Max Position X: 217
+Genome: 450 Fitness: 37.25 Max Position X: 305
+Genome: 451 Fitness: 170.75 Max Position X: 1417
+Genome: 452 Fitness: 8.25 Max Position X: 133
+Genome: 453 Fitness: 352.0 Max Position X: 2849
+Genome: 454 Fitness: 25.5 Max Position X: 185
+Genome: 455 Fitness: 98.5 Max Position X: 895
+Genome: 456 Fitness: 0.25 Max Position X: 95
+Genome: 457 Fitness: 12.5 Max Position X: 155
+Genome: 458 Fitness: 161.5 Max Position X: 1254
+Population's average fitness: 210.58197 stdev: 316.10021
+Best fitness: 1795.50000 - size: (9, 3041) - species 4 - id 71
