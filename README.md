@@ -1,5 +1,7 @@
 # dkc-ai-bot
 
+![training](dktraining.PNG)
+
 `pip install -r requirements.txt`
 
 You will need a rom file for Donkey Kong Country and do `python -m retro.import` to import it
