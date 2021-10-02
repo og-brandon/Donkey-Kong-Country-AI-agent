@@ -1,4 +1,4 @@
-# dkc-ai-bot
+# Donkey Kong Country AI agent
 
 <p align="center"><img src="https://raw.githubusercontent.com/BrandonZoft/dkc-ai-bot/master/donkeykong.webp" alt="drawing" width="350"/></p>
 
