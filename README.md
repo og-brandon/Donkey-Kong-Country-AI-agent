@@ -1,6 +1,6 @@
 # Donkey Kong Country AI agent with gym retro
 
-<p align="center"><img src="https://raw.githubusercontent.com/og-brandon/dkc-ai-bot/master/donkeykong.webp" alt="drawing" width="350"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/og-brandon/Donkey-Kong-Country-AI-agent/master/donkeykong.webp" alt="drawing" width="350"/></p>
 
 The Donkey Kong Country AI Bot is an agent reinforcement learning model based on neural networks made for [Redes Neuronales Artificiales (Optativa III FP) AGO-DIC 2019](https://www.fime.uanl.mx/wp-content/uploads/2020/10/Redes-Neuronales-Artificiales-Optativa-III-FP-FIME.pdf) where to objective is to complete the first level of the game.
 
